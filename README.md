@@ -102,6 +102,9 @@ The analysis focuses on Adidas US Sales data with detailed analysis for the year
 The Power BI dashboard file is available in this repository:
 
 `project_class.pbix`
+- **Project Analysis Report:** `Adidas US Sales Analysis Report.docx`
+
+The report contains detailed business analysis, region-wise analysis, retailer-wise analysis, product-wise analysis, key insights, and root cause analysis.
 
 ## 👤 Author
 
