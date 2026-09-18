@@ -1,3 +1,27 @@
+## 🖥️ Dashboard Preview
+
+### Dashboard Overview
+
+![Adidas Dashboard Overview](Screenshot%202026-09-18%20214618.png)
+
+### Region-wise Analysis
+
+![Adidas Region-wise Analysis](Screenshot%202026-09-18%20215310.png)
+
+### Retailer-wise Analysis
+
+![Adidas Retailer-wise Analysis](Screenshot%202026-09-18%20215348.png)
+
+### Product-wise Analysis
+
+![Adidas Product-wise Analysis](Screenshot%202026-09-18%20215407.png)
+
+### Dashboard Insights
+
+![Adidas Dashboard Insights](Screenshot%202026-09-18%20215439.png)
+
+
+
 # Adidas US Sales Analysis
 
 ## 📊 Project Overview
